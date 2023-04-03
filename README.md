@@ -1,1 +1,1 @@
-# Solar-Panels
+# solar_power
